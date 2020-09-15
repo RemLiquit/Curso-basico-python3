@@ -42,3 +42,24 @@
 # >>> len('Hola! este es el curso de python')
 # 32
 # >>>
+
+# Slices
+
+# >>> nombre = 'Francisco'
+# >>> nombre
+# 'Francisco'
+# >>> nombre[0:3]
+# 'Fra'
+# >>> nombre[:3]
+# 'Fra'
+# >>> nombre[3:]
+# 'ncisco'
+# >>> nombre[1:7]
+# 'rancis'
+# >>> nombre[1:7:2]
+# 'rni'
+# >>> nombre[::-1]
+# 'ocsicnarF'
+# >>>
+# KeyboardInterrupt
+# >>>
